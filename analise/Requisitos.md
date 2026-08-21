@@ -1,6 +1,11 @@
 # Requisitos do Sistema de Hábitos de Estudo
 
 ## 1. Requisitos Funcionais
+       └──> •Descrevem funcionalidades e serviços específicos.
+             •Respondam à pergunta: "O que o sistema faz?"
+             •Envolvem dados de entrada, processamento e saída esperada.
+             •"o que faz" 
+
 
 **RF01 – Cadastro de usuário**  
 O sistema deverá permitir que o estudante crie uma conta informando dados como nome, e-mail e senha.
@@ -23,22 +28,16 @@ O sistema deverá permitir que o estudante estabeleça metas de estudo, definind
 **RF07 – Registro das sessões de estudo**  
 O sistema deverá permitir que o estudante registre cada sessão de estudo realizada, informando a disciplina, duração e data.
 
-**RF08 – Acompanhamento do progresso**  
-O sistema deverá apresentar ao estudante seu progresso em relação às metas e hábitos cadastrados.
-
-**RF09 – Histórico de estudos**  
+**RF08 – Histórico de estudos**  
 O sistema deverá permitir que o estudante consulte um histórico das sessões de estudo realizadas anteriormente.
 
-**RF10 – Lembretes de estudo**  
-O sistema deverá permitir que o estudante configure lembretes para horários ou atividades de estudo.
-
-**RF11 – Relatórios de desempenho**  
+**RF09 – Relatórios de desempenho**  
 O sistema deverá gerar relatórios com informações sobre o tempo estudado, frequência de estudos, disciplinas estudadas e cumprimento das metas.
 
-**RF12 – Notificações**  
+**RF10 – Notificações**  
 O sistema deverá enviar notificações ao estudante sobre lembretes, metas próximas do prazo e atividades de estudo programadas.
 
-**RF13 – Geração de rotina de estudos por IA**
+**RF11 – Geração de rotina de estudos por IA**
 O sistema deverá utilizar inteligência artificial para gerar uma rotina de estudos personalizada com base nas disciplinas cadastradas, nos hábitos de estudo, no tempo livre disponível e nas informações fornecidas pelo usuário, organizando os períodos de estudo de acordo com suas necessidades e disponibilidade.
 
 **RF14 – Agenda diária de estudos**
@@ -48,6 +47,11 @@ O sistema deverá disponibilizar uma agenda organizada por dias, permitindo que 
 O sistema deverá disponibilizar recursos de gamificação, como pontos, níveis, conquistas e recompensas, com base nas atividades e metas de estudo realizadas pelo estudante, para incentivar a regularidade e a manutenção do hábito de estudos.
 
 ## 2. Requisitos Não Funcionais
+       └──> •Estabelecem critérios de desempenho, restrições e padrões de qualidade.
+            •Respondem à pergunta: "Como o sistema se comporta ou opera?"
+            •Dividem-se em categorias como usabilidade, segurança, confiabilidade e portabilidade.
+            •"como se comporta"
+
 
 **RNF01 – Usabilidade**  
 O sistema deverá possuir uma interface simples, intuitiva e de fácil compreensão, permitindo que o estudante utilize suas principais funcionalidades sem dificuldades.
@@ -64,5 +68,4 @@ O sistema deverá funcionar corretamente nos principais navegadores e dispositiv
 **RNF05 – Manutenibilidade**  
 O sistema deverá possuir código organizado e documentado, facilitando futuras correções, atualizações e implementação de novas funcionalidades.
 
-**RNF06 – Confiabilidade**  
-O sistema deverá armazenar corretamente os registros de estudo, evitando perda ou alteração indevida das informações cadastradas pelo usuário.
+
