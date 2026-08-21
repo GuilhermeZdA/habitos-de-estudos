@@ -8,6 +8,7 @@
 
 ## Protótipos de Média Fidelidade
 
+![prototipo de media fidelidade 1](prototipo-media1.jpeg)
 
 
 ## Protótipos de Alta Fidelidade
