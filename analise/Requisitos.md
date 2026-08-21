@@ -41,6 +41,12 @@ O sistema deverá enviar notificações ao estudante sobre lembretes, metas pró
 **RF13 – Geração de rotina de estudos por IA**
 O sistema deverá utilizar inteligência artificial para gerar uma rotina de estudos personalizada com base nas disciplinas cadastradas, nos hábitos de estudo, no tempo livre disponível e nas informações fornecidas pelo usuário, organizando os períodos de estudo de acordo com suas necessidades e disponibilidade.
 
+**RF14 – Agenda diária de estudos**
+O sistema deverá disponibilizar uma agenda organizada por dias, permitindo que o estudante selecione uma data e visualize os horários e atividades de estudo programados para aquele dia, incluindo a disciplina, descrição da atividade, horário e status de realização.
+
+**RF15 – Gamificação do estudo**
+O sistema deverá disponibilizar recursos de gamificação, como pontos, níveis, conquistas e recompensas, com base nas atividades e metas de estudo realizadas pelo estudante, para incentivar a regularidade e a manutenção do hábito de estudos.
+
 ## 2. Requisitos Não Funcionais
 
 **RNF01 – Usabilidade**  

@@ -14,6 +14,7 @@ Contém o detalhamento do problema:
 * **Descrição do Problema:** Contexto, justificativa, público-alvo, delimitação do escopo do problema e impacto esperado da solução.
 * **Requisitos:** Levantamento de requisitos funcionais e não funcionais.
 * **User Stories:** Adoção de critério de prioridade e estimativa utilizando Planning Poker.
+* **Product Backlog:** User Storys organizadas com base na sua prioridade
 
 ### 2. `personas/`
 * **Bernardo (Persona Principal):** Estudante focado em organizar sua rotina de estudos no Ensino Médio.
@@ -26,6 +27,11 @@ Apresenta a evolução visual e funcional da interface do sistema:
 * **Alta Fidelidade:** Protótipos próximos do produto final, elaborados no Figma.
 
 ---
+
+## Kanban
+O Kanban do projeto foi feito utilizando o Projects do repositório no Github.
+
+[Acesse aqui!](https://github.com/users/GuilhermeZdA/projects/2/views/1)
 
 ## Integrantes da Equipe
 * Emanuel Hilley Alves Oliveira
