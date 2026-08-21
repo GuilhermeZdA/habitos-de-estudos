@@ -1,6 +1,12 @@
 # Requisitos do Sistema de Hábitos de Estudo
 
+
 ## 1. Requisitos Funcionais
+       └──> •Descrevem funcionalidades e serviços específicos.
+            •Respondam à pergunta: "O que o sistema faz?"
+            •Envolvem dados de entrada, processamento e saída esperada.
+            •"o que faz" 
+
 
 **RF01 – Cadastro de usuário**  
 O sistema deverá permitir que o estudante crie uma conta informando dados como nome, e-mail e senha.
@@ -38,7 +44,13 @@ O sistema deverá gerar relatórios com informações sobre o tempo estudado, fr
 **RF12 – Notificações**  
 O sistema deverá enviar notificações ao estudante sobre lembretes, metas próximas do prazo e atividades de estudo programadas.
 
+
 ## 2. Requisitos Não Funcionais
+       └──> •Estabelecem critérios de desempenho, restrições e padrões de qualidade.
+            •Respondem à pergunta: "Como o sistema se comporta ou opera?"
+            •Dividem-se em categorias como usabilidade, segurança, confiabilidade e portabilidade.
+            •"como se comporta"
+
 
 **RNF01 – Usabilidade**  
 O sistema deverá possuir uma interface simples, intuitiva e de fácil compreensão, permitindo que o estudante utilize suas principais funcionalidades sem dificuldades.
