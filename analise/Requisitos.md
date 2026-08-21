@@ -38,6 +38,9 @@ O sistema deverá gerar relatórios com informações sobre o tempo estudado, fr
 **RF12 – Notificações**  
 O sistema deverá enviar notificações ao estudante sobre lembretes, metas próximas do prazo e atividades de estudo programadas.
 
+**RF13 – Geração de rotina de estudos por IA**
+O sistema deverá utilizar inteligência artificial para gerar uma rotina de estudos personalizada com base nas disciplinas cadastradas, nos hábitos de estudo, no tempo livre disponível e nas informações fornecidas pelo usuário, organizando os períodos de estudo de acordo com suas necessidades e disponibilidade.
+
 ## 2. Requisitos Não Funcionais
 
 **RNF01 – Usabilidade**  
